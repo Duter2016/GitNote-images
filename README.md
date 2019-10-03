@@ -9,6 +9,8 @@ https://github.com/Duter2016/GitNote-images/raw/master/Images/2019/04/15/1555335
 
 规则：①把“1”的“/blob”替换为“/raw”；②把“1”最后的“?raw=true”去掉。
 
+![title](https://raw.githubusercontent.com/Duter2016/GitNote-images/master/Images/2019/10/03/usegithubaspicsource-1570070388830.png)
+
 #### 3、图片外链到的源码地址（推荐使用这个外链地址）：
 https://raw.githubusercontent.com/Duter2016/GitNote-images/master/Images/2019/04/15/1555335721972-1555335721975.png
 
