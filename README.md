@@ -18,3 +18,11 @@ https://raw.githubusercontent.com/Duter2016/GitNote-images/master/Images/2019/04
 
 规则2：把“2”的图片download按钮得到的地址，复制后，在浏览器地址栏粘贴回车，即可得到与“规则1”完全一样的源码地址！
 
+#### 3、图片外链镜像CDN加速：
+（1）jsdelivr的cdn加速（推荐这个）
+
+https://cdn.jsdelivr.net/gh/Duter2016/GitNote-images/Images/2019/04/15/1555335721972-1555335721975.png
+
+（2）sevencdn的cdn加速
+
+https://raw.sevencdn.com/Duter2016/GitNote-images/master/Images/2019/04/15/1555335721972-1555335721975.png
